@@ -1,1 +1,2 @@
 - PgVector + Postgres + OpenAI
+- LLM experimentation
